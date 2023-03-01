@@ -1,4 +1,4 @@
-<a href="https://vanesabordanaro.github.io/leomessi/"><img src="header.jpg" alt="preview"></a>
+<a href="https://github.com/VanesaBordanaro/leomessi"><img src="header.jpg" alt="preview"></a>
 
 # leomessi
 A tribute page for Leo Messi - Responsive Web Design Project - freeCodeCamp.
