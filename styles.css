@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(231, 231, 167);
+    font-family: calibri;
+    font-size: 20px;
+    text-align: center;
+    color: rgb(53, 52, 52);
+    margin:0;
+    padding:0;
+}
+#title{
+    margin: 10px;
+    font-size: 3rem;
+    font-family: helvetica;
+}
+p{
+    font-weight:bold;
+    font-size: 25px;
+}
+#img-div{
+    font-style: italic;
+    font-size: 15px;
+}
+#image{
+     max-width: 100%;
+    height: auto;
+}
+h3{
+    margin:0 10px;
+}
+ul{
+    text-align: left;
+    margin: 15px;
+}
+li{
+    margin:10px;
+    padding: 5px;
+}
+#tribute-link{
+    margin:0;
+    color: black;
+}
+
